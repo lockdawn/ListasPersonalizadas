@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/cartelera"
+        android:title="@string/menu1"
+        android:icon="@drawable/iinfo" />
+
+    <item android:id="@+id/informacion"
+        android:title="@string/menu2"
+        android:icon="@drawable/icartelera" />
+
+    <item android:id="@+id/salir"
+        android:title="@string/menu3"
+        android:icon="@drawable/isalir" />
+
+</menu>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:text="@string/nombre_cine"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/url_cine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="6dp"
+        android:paddingTop="0dp"
+        android:text="@string/url_cine"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="18sp"
+        android:textStyle="italic" />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/precio_cine"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="18sp"
+        android:paddingBottom="16dp"
+        />
+    <ImageView
+        android:id="@+id/mapa"
+        android:layout_width="fill_parent"
+        android:layout_height="260dp"
+        android:contentDescription="@string/precio_cine"
+        android:paddingBottom="16dp"
+        android:src="@drawable/mapa" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <ImageButton
+            android:id="@+id/facebookboton"
+            android:layout_width="120dp"
+            android:layout_height="45dp"
+            android:contentDescription="@string/facebook"
+            android:background="@null"
+            android:layout_marginLeft="22dp"
+            android:onClick="irfacebook"
+            android:src="@drawable/facebook_button2" />
+        <ImageButton
+            android:id="@+id/twitterboton"
+            android:layout_width="120dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="22dp"
+            android:background="@null"
+            android:contentDescription="@string/twitter"
+            android:onClick="irtwitter"
+            android:src="@drawable/twitter_button2" />
+    </RelativeLayout>
+</LinearLayout>

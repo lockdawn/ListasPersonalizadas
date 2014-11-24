@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:clickable="true"
+        android:contentDescription="@string/app_name"
+        android:padding="5dp"
+        android:src="@drawable/flight3d" />
+
+    <TextView
+        android:id="@+id/nomPelicula"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/logo"
+        android:contentDescription="@string/app_name"
+        android:paddingTop="15dip"
+        android:text="@string/title0"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/horaPelicula"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nomPelicula"
+        android:layout_toRightOf="@id/logo"
+        android:clickable="false"
+        android:contentDescription="@string/app_name"
+        android:text="@string/edades0"/>
+
+    <TextView
+        android:id="@+id/edadesPelicula"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horaPelicula"
+        android:layout_toRightOf="@id/logo"
+        android:clickable="false"
+        android:contentDescription="@string/app_name"
+        android:text="@string/horario0"/>
+
+</RelativeLayout>

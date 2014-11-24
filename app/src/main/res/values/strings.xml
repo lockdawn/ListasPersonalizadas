@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListasPersonalizadas</string>
+
+    <string name="menu1">Cartelera</string>
+    <string name="menu2">Información</string>
+    <string name="menu3">Salir</string>
+
+    <string name="informacion">Informacion del cine</string>
+    <string name="nombre_cine">Nombre del cine</string>
+    <string name="cartelera_cine">Cartelera del cine</string>
+    <string name="url_cine"><a href="http://www.google.com">http://www.paginaoficial.com</a></string>
+    <string name="precio_cine">Precio/Entrada aproximado: $45</string>
+    <string name="facebook"> Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="mapa">Mapa del cine</string>
+
+    <string name="titleplantilla">Detalles de la pelicula</string>
+    <string name="sinopsis">Sinopsis de la Película</string>
+    <string name="ver_trailer">Ver Trailer de la Película</string>
+
+    <string name="title0">Flight 3D</string>
+    <string name="horario0">L-V//16.00,18.00,20.30h</string>
+    <string name="edades0">No recomendada para menores de 12 años</string>
+
+    <string name="title1">La Boheme</string>
+    <string name="horario1">L-D//16.30,18.30,22.00h</string>
+    <string name="edades1">No recomendada para menores de 16 años</string>
+
+    <string name="title2">Esmeralda</string>
+    <string name="horario2">L-V//16.00,18.00,20.30h</string>
+    <string name="edades2">No recomendada para menores de 7 años</string>
+
+    <string name="title3">La Flauta Mágica</string>
+    <string name="horario3">S-D//16.00,18.00,20.30h</string>
+    <string name="edades3">Para todos los públicos</string>
+
+    <string name="title4">Friends: Aventura en la Isla de los Monstruos</string>
+    <string name="horario4">L-V//16.00,18.00,20.30h</string>
+    <string name="edades4">No recomendada para menores de 7 años</string>
+
+    <string name="title5">Jack el Caza Gigantes</string>
+    <string name="horario5">L-D//16.00,18.00,20.30,22.30h</string>
+    <string name="edades5">Para todos los públicos</string>
+
+    <string name="title6">Spring Breakers</string>
+    <string name="horario6">L-D//16.00,18.00,20.30,22.30h</string>
+    <string name="edades6">No recomendada para menores de 18 años</string>
+
+    <string name="title7">El chico del periódico</string>
+    <string name="horario7">L-D//16.00,18.00,20.30,22.30h</string>
+    <string name="edades7">No recomendada para menores de 12 años</string>
+
+    <string name="title8">Anna Karenina</string>
+    <string name="horario8">L-D//16.00,18.00,20.30,22.30h</string>
+    <string name="edades8">No recomendada para menores de 12 años</string>
+
+    <string name="sinopsis0"> Una mezcla de acción y aventura a partes iguales aliñada con
+        situaciones extremas sobrevenidas en el proceso – ofrece a los espectadores la oportunidad
+        exclusiva de apreciar, de primera mano, lo que se siente durante estas aventuras
+        trepidantes. Esta combinación permite dirigir una nueva mirada a las proezas del snow, y
+        sube el listón a niveles insospechados.
+    </string>
+
+    <string name="sinopsis1">Tras el éxito de Manon Lescaut (1.893), Puccini acometía una nueva
+        ópera basada en la obra por fascículos de Henri Murguer, “Scènes de la vie de bohème”, y que
+        dio lugar a esta ópera que, en febrero de 1.896, se representaba en el Teatro Regio de Turín
+        por primera vez. La historia es conocida por los amantes de la ópera y es fácil de llegar al
+        público que, sin duda, se pone en la piel de los dos protagonistas, Mimi y Rodolfo, nada más
+        iniciarse los primeros compases de la obra y levantarse el telón.
+    </string>
+
+    <string name="sinopsis2">Famoso Ballet en 3 actos desde el mismo teatro Bolshoi de Moscú.
+        Esmeralda relata la historia la historia de Quasimodo, el jorobado que está locamente
+        enamorado de la gitana Esmeralda, al igual que el capitán Febo. Frollo también está
+        enamorado de Esmeralda y Febo puñalada de celos. Esmeralda es posteriormente acusado del
+        asesinato de Febo y es condenado a muerte. Pero antes de que sea demasiado tarde para
+        Esmeralda, dejando al descubierto el delito de Frollo, y ella se salva.
+    </string>
+
+    <string name="sinopsis3">Seguramente la ópera más famosa de Mozart y "una pieza digna de ser
+        interpretada en los festivales más solemnes, y ante toda la realeza europea" dijo Salieri de
+        Die Zauberflöte. Bajo una apariencia de cuento de hadas, la Flauta Mágica esconde los
+        misterios de un rito de iniciación envuelto en una trama llena de alegorías que nos
+        encienden la imaginación. Este viaje musical se verá acompañado por el fantástico director
+        Roland Böer, un reparto Mozartiano de primera clase y una magnífica producción por parte de
+        2012 Salzburg Festival, merecedor de los mayores elogios ante toda la crítica
+        europea.
+    </string>
+
+    <string name="sinopsis4">Mar adentro, envuelta en la niebla, existe una fantasmagórica isla
+        que se dice que es el hogar de una hueste de terroríficos monstruos. Está terminantemente
+        prohibido acercarse a ella. Pero, un día, un niño humano, Kotake, se pierde y acaba
+        encontrándose cara a cara con las misteriosas criaturas que habitan allí. La llegada de
+        Kotake hace cundir el pánico en la isla porque en realidad son los monstruos los que viven
+        aterrorizados de los humanos.
+    </string>
+
+    <string name="sinopsis5">Una antigua guerra se reaviva cuando un joven agricultor abre sin
+        darse cuenta una puerta entre nuestro mundo y una temible raza de gigantes.
+    </string>
+
+    <string name="sinopsis6">Cuatro jóvenes estudiantes con ganas de mucha juerga acaban en la
+        cárcel, tras ser sorprendidas en una casa llena de drogas durante sus locas vacaciones
+        escolares de primavera (spring break).
+    </string>
+
+    <string name="sinopsis7">En los años sesenta, un periodista (Matthew McConaughey) regresa a
+        su pueblo natal, en Florida, para investigar el caso de un hombre (John Cusack) que ha sido
+        condenado a muerte por haber matado a un sheriff. Cuenta con la ayuda de su hermano (Zac
+        Efron) y de una atractiva mujer (Nicole Kidman) que se ha enamorado del condenado sin
+        haberlo visto.
+    </string>
+
+    <string name="sinopsis8">La historia tiene lugar en el siglo XIX y explora las relaciones
+        entre los miembros de la alta sociedad rusa. Ana Karenina, una mujer de la alta sociedad que
+        se enamora del joven y apuesto oficial Vronski, abandona a su esposo y a su hijo para seguir
+        a su amante. Nueva adaptación de la novela homónima de León Tostói.
+    </string>
+
+</resources>
